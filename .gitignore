@@ -1,0 +1,27 @@
+# Ignore Visual Studio Code settings
+.vscode/
+.vscode/*
+
+# Ignore workspace files
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# Ignore user-specific configurations
+.vscode/*.code-workspace
+
+# Ignore logs and caches
+*.log
+.cache/
+*.tmp
+*.temp
+
+# Ignore any build or distribution folders (optional, depending on your project)
+dist/
+build/
+node_modules/
+
+# Exclude environment files
+.env
+
