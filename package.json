@@ -5,11 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-<<<<<<< HEAD
-    "build": "node index.js"
-=======
     "build": "echo 'No build step required' && exit 0"
->>>>>>> 67d235dcfde50f655491f1c0f9cbf69854ddb8b2
   },
   "keywords": [],
   "author": "",
@@ -23,3 +19,5 @@
     "nodemon": "^3.1.4"
   }
 }
+
+
