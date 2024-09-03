@@ -20,7 +20,6 @@
 # Ignore any build or distribution folders (optional, depending on your project)
 dist/
 build/
-node_modules/
 
 # Exclude environment files
 .env
